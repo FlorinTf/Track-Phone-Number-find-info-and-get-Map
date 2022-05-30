@@ -8,6 +8,5 @@ For landlines, it shows the city where the phone number is registered and the me
 This script is written in Python with Tkinter
 
 - :clapper: Or you can see my portfolio on my <a href="https://www.youtube.com/watch?v=QySKoAaQ9z8" target="_blank">Youtube Channel :clapper:</a></p>&nbsp;</div><br /><p></p>
-- :clapper: Or you can see my portfolio on my <a onclick="window.open(this.href,'_blank');return false;" href="https://www.youtube.com/watch?v=QySKoAaQ9z8">Youtube Channel</a>:clapper:</a></p>&nbsp;</div><br /><p></p>
 ![Preview](https://github.com/FlorinTf/Track-Phone-Number-find-info-and-get-Map/blob/main/Track%20Phone%20number.gif)
 ![Track Phone Number](https://github.com/FlorinTf/Track-Phone-Number-find-info-and-get-Map/blob/main/Track%20Phone%20Number%20GPS%20find%20info%20on%20phone%20numbers%20with%20Phone%20Info.png)
