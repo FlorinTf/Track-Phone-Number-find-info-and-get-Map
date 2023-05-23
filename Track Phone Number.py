@@ -46,7 +46,7 @@ def search(geocoder=geocoder):
     time=timezone.time_zones_for_number(number)
     time_zone.config(text=time)
 
-    key = '05f849c9bc0141d8ac2465fdfe7c39de'
+    key = '05f849c9bc0141d8ac2465fdfe7c39'
     geocoder = OpenCageGeocode(key)
     query = str(location_1)
     result = geocoder.geocode(query)
